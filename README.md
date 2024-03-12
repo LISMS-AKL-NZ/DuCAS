@@ -58,4 +58,4 @@ If you find our code useful, please cite our paper.
 ```
 
 ## Contact
-If you have any question about DuHa, please contact Hao Zheng via [email](mailto:hzhe951@aucklanduni.ac.nz).
+If you have any question about DuCAS, please contact Hao Zheng via [email](mailto:hzhe951@aucklanduni.ac.nz).

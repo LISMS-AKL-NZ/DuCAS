@@ -93,4 +93,5 @@ dependencies:
       - torch-geometric==2.3.1
       - tqdm==4.66.1
       - transformers==4.35.0
-prefix: /home/user1/anaconda3/envs/duha
+prefix: /home/user1/anaconda3/envs/ducas
+
